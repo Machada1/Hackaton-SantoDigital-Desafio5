@@ -26,7 +26,7 @@ variable "subnet2_cidr" {
 variable "instance_types" {
   description = "Tipos de instâncias para as VMs"
   default     = {
-    "vm-instance-01" = "e2-medium"
-    "vm-instance-02" = "e2-medium"
+    "vm-instance-01" = "n1-standard-1"
+    "vm-instance-02" = "n1-standard-1"
   }
 }
