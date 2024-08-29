@@ -22,6 +22,7 @@ Este projeto é uma solução para o desafio de automação de infraestrutura em
 Clone o repositório para o seu ambiente local:
 
    git clone <link-do-seu-repositorio>
+   
    cd HackathonSD
    
 ### 2. Configure Suas Credenciais no GCP
